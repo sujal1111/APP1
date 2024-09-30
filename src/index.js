@@ -42,5 +42,3 @@ app.get('/data/:id', async (req, res) => {
     }
 })
 
-
-export default app
