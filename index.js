@@ -41,3 +41,6 @@ app.get('/data/:id', async (req, res) => {
         res.send([])
     }
 })
+
+
+export default app
