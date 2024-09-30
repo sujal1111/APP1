@@ -6,11 +6,11 @@
   },
   "name": "app1server",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"node app.js"
+    "build":"node index.js"
   },
   "author": "",
   "license": "ISC",
